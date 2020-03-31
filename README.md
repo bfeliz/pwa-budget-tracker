@@ -2,13 +2,13 @@
 
 ## Description
 
-An application that allows you to track your budget whether you are online or offline.
+An application that allows you to track your budget whether you are online or offline. Simple graph helps you see how you are doing. Use this app to help you save up money!
 
-## [Try it yourself!]()
+## [Try it yourself!](https://shielded-crag-85196.herokuapp.com/)
 
 The following image shows a glimpse of the application:
 
-![workout app]()
+![budget app](public/assets/screenshot.png)
 
 ## Getting Started
 
